@@ -10,15 +10,15 @@ design:
 sections:
   - block: hero
     content:
-      title: مهارت رمز اشتغال پایدار با آموزش‌های فنی و حرفه‌ای
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: مهارت رمز اشتغال پایدار 
+      text: با آموزش‌های فنی و حرفه‌ای
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: شروع ثبت نام
+        url: https://reg.irantvto.ir/course
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: اطلاعات بیشتر
+        url: https://t.me/Reza_Taghavi
       announcement:
         text: "Announcing the release of version 1."
         link:
